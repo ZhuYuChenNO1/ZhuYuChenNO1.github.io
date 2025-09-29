@@ -22,7 +22,7 @@ I am Yuchen Zhu (朱宇辰), a Master's student (2023-2026) at [ShanghaiTech Uni
 
 I am honored to work in [SooLab](https://github.com/SooLab) during my master's studies. My research interests include 1. Spatial Intelligence, 2. Multimodal Large Language Models (LLM/MLLM), 3. Open-world Visual Understanding. Currently, I am focusing on equipping multimodal large language models with spatial reasoning abilities, particularly in 3D scene understanding, embodied navigation, and object grounding. Here is my [CV](assets/zyc_cv_en.pdf).
 
-<span style="color:red; font-weight:bold;">**Actively seeking industry research/HC positions and PhD opportunities. I am open to discussing potential collaborations and roles!**</span>
+<!-- <span style="color:red; font-weight:bold;">**Actively seeking industry research/HC positions and PhD opportunities. I am open to discussing potential collaborations and roles!**</span> -->
 
 # 🔥 News
 - *2025.09.19*: &nbsp;🎉🎉 Our paper "Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats" has been accepted to NeurIPS 2025!
