@@ -18,13 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am Yuchen Zhu (朱宇辰), a Master's student (2023-2026) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Sibei Yang](https://sibeiyang.github.io/). Previously, I received my Bachelor's degree from [Nanjing Institute of Technology](https://www.njit.edu.cn/) in 2023. 
+I am Yuchen Zhu (朱宇辰), a Ph.D. student at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), jointly trained with [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/en/), advised by [Prof. Wentao Zhu](https://wentao.live/about.html). Previously, I received my Master's degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) (2023–2026), advised by [Prof. Sibei Yang](https://sibeiyang.github.io/), and my Bachelor's degree from [Nanjing Institute of Technology](https://www.njit.edu.cn/) in 2023.
 
-I am honored to work in [SooLab](https://github.com/SooLab) during my master's studies. My research interests include 1. Spatial Intelligence, 2. Multimodal Large Language Models (LLM/MLLM), 3. Open-world Visual Understanding. Currently, I am focusing on equipping multimodal large language models with spatial reasoning abilities, particularly in 3D scene understanding, embodied navigation, and object grounding.
+My research interests include Vision-Language-Action (VLA) models and Latent World Models. I am currently focusing on building embodied agents that can perceive, reason, and act in the physical world through scalable VLA systems and latent world modeling.
 
 <!-- <span style="color:red; font-weight:bold;">**Actively seeking industry research/HC positions and PhD opportunities. I am open to discussing potential collaborations and roles!**</span> -->
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 I will join [USTC](https://www.ustc.edu.cn/) as a Ph.D. student, jointly trained with [EIT, Ningbo](https://www.eitech.edu.cn/en/), advised by [Prof. Wentao Zhu](https://wentao.live/about.html)!
 - *2025.09.19*: &nbsp;🎉🎉 Our paper "Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats" has been accepted to NeurIPS 2025!
 - *2025.07*: &nbsp;🎉🎉 Our paper "Sim-DETR: Unlock DETR for Temporal Sentence Grounding" has been accepted to ICCV 2025!
 
