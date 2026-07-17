@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuchen Zhu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "MS in Computer Science, ShanghaiTech University"
-  location         : "Shanghai, China"
+  bio              : "PhD student in Computer Science, USTC & EIT"
+  location         : "Ningbo, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=De9BN-YAAAAJ&hl"
-  email            : "zhuych2023@shanghaitech.edu.cn"
+  email            : "zhuyuchen530@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
