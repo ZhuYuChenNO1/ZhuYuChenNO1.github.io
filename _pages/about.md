@@ -36,7 +36,6 @@ My research interests include Vision-Language-Action (VLA) models and Latent Wor
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">arXiv 2026</div>
     <video class="paper-box-video" autoplay muted loop playsinline preload="metadata" width="960" height="540" poster="images/juno_short_poster.jpg" aria-label="Juno short overview: real-robot generalization and test-time adaptation (silent)">
       <source src="videos/juno_short_silent.mp4" type="video/mp4">
       <a href="videos/juno_short_silent.mp4">Watch the Juno short overview</a>.
