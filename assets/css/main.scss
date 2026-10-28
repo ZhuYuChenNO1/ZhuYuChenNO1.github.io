@@ -66,6 +66,16 @@
         max-width: 100%;
         order: 1;
     }
+
+    .paper-box-video {
+        display: block;
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+        aspect-ratio: 16 / 9;
+        object-fit: contain;
+        box-shadow: 3px 3px 6px #888;
+    }
     
     @include breakpoint($medium) {
         .paper-box-image{

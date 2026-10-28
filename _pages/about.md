@@ -25,6 +25,7 @@ My research interests include Vision-Language-Action (VLA) models and Latent Wor
 <!-- <span style="color:red; font-weight:bold;">**Actively seeking industry research/HC positions and PhD opportunities. I am open to discussing potential collaborations and roles!**</span> -->
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 We introduce [Juno](https://juno-policy.github.io/), a unified predictive-latent framework for VLA pretraining, policy learning, and test-time adaptation. [[Paper]](https://arxiv.org/abs/2610.09940) [[Code]](https://github.com/ZhuYuChenNO1/Juno)
 - *2026.07*: &nbsp;🎉🎉 I will join [USTC](https://www.ustc.edu.cn/) as a Ph.D. student, jointly trained with [EIT, Ningbo](https://www.eitech.edu.cn/en/), advised by [Prof. Wentao Zhu](https://wentao.live/about.html)!
 - *2025.09.19*: &nbsp;🎉🎉 Our paper "Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats" has been accepted to NeurIPS 2025!
 - *2025.07*: &nbsp;🎉🎉 Our paper "Sim-DETR: Unlock DETR for Temporal Sentence Grounding" has been accepted to ICCV 2025!
@@ -32,6 +33,26 @@ My research interests include Vision-Language-Action (VLA) models and Latent Wor
 # 📝 Publications 
 
 \* denotes **equal contribution**
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">arXiv 2026</div>
+    <video class="paper-box-video" autoplay muted loop playsinline preload="metadata" width="960" height="540" poster="images/juno_short_poster.jpg" aria-label="Juno short overview: real-robot generalization and test-time adaptation (silent)">
+      <source src="videos/juno_short_silent.mp4" type="video/mp4">
+      <a href="videos/juno_short_silent.mp4">Watch the Juno short overview</a>.
+    </video>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Juno: Taming Predictive Latents for Vision-Language-Action Models](https://arxiv.org/abs/2610.09940)
+
+**Yuchen Zhu**, Chenyi Xu, Yulin Zhang, Gang Xu, Wentao Zhu
+
+One action-conditioned JEPA for control-aligned pretraining, decoupled predictive reasoning, and dynamics-first test-time adaptation.
+
+[[Paper]](https://arxiv.org/abs/2610.09940) [[Project]](https://juno-policy.github.io/) [[Code]](https://github.com/ZhuYuChenNO1/Juno)
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
